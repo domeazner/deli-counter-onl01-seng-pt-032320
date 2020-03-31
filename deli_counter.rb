@@ -7,3 +7,4 @@ def line_length
     puts "The line is currently empty."
   end
 end
+

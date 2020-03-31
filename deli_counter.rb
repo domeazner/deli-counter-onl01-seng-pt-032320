@@ -1,6 +1,5 @@
 katz_deli = []
 
-
 line = 0
 
 def line_length
